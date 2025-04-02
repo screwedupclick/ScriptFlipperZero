@@ -1,6 +1,3 @@
-Voici quelques scripts de simulation d'attaques possible que l'on peut faire avec le Flipper Zero.
-
-
 🧿 DISCLAIMER: 🧿
 
 _______________________________________________________________________________
